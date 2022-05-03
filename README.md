@@ -5,9 +5,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ali-tarmoush-4524151a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-tarmoush-4524151a2" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15423157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15423157" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ali tarmoush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ali tarmoush" height="30" width="40" /></a>
+<a href="https://fb.com/ali.tarmwsh.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali.tarmwsh.9" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uc_32dqqa3078jjerjkddimg/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc_32dqqa3078jjerjkddimg/featured" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/alitarmoush" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="alitarmoush" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/alitarmwsh_atp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alitarmwsh_atp" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ali_a_tarmwsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ali_a_tarmwsh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
