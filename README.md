@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Tarmoush</h1> 
 <h3 align="center">A Junior Full-Stack Web Developer from Syria</h3> 
-<p align="center"> <img src="assets/img/ali-tarmoush.png" alt="ali-tarmoush"/> </p>
+<p align="center"> <img src="ali-tarmoush.png" alt="ali-tarmoush"/> </p>
 
 - 📫 How to reach me **ali-tarmoush@outlook.com**
 
