@@ -71,6 +71,7 @@
 
 
 <h2>INTERESTS</h2>
+
 - Programming
 - Problem Solving
 - Artificial Intelligence
