@@ -72,9 +72,13 @@
 
 <h2>INTERESTS</h2>
 - Programming
+
 - Problem Solving
+
 - Artificial Intelligence
+
 - Machine Learning
+
 
 <table align="center">
     <tr>
