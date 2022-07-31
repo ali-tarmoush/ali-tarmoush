@@ -45,6 +45,21 @@
     <a href="https://stackoverflow.com/users/15423157"target="_blank">
         <img align="center"alt="15423157"height="30"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"width="40">
     </a>
+<<<<<<< HEAD
+=======
+    <!-- codeforces -->
+    <a href="https://codeforces.com/profile/ali_tarmoush"target="_blank">
+    <img align="center"alt="ali_tarmoush"height="30"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"width="40"> 
+    </a>
+    <!-- codechef -->
+    <a href="https://www.codechef.com/users/ali_tarmoush" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ali_tarmoush" height="30" width="40" />
+    </a>
+    <!-- hackerrank -->
+    <a href="https://www.hackerrank.com/ali_tarmoush"target="_blank">
+        <img align="center"alt="ali_tarmoush"height="30"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"width="40">
+    </a>
+>>>>>>> 2a07f45e8e137e71a2750ca5f8cc0e1eb1a780cc
     <!-- topcoder -->
     <a href="https://www.topcoder.com/members/ali-tarmoush"target="_blank">
         <img align="center"alt="ali-tarmoush"height="30"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg"width="40">
@@ -54,6 +69,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dashboard.rss.com/account/" height="30" width="40" />
     </a>
 </p>
+<<<<<<< HEAD
 <p align="left">
     <!-- codeforces -->
 - Practising on
@@ -74,10 +90,13 @@
 - Practising on 
     <a href="https://www.leetcode.com/ali-tarmoush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ali-tarmoush" height="30" width="40" /></a>
 </p>
+=======
+>>>>>>> 2a07f45e8e137e71a2750ca5f8cc0e1eb1a780cc
 <h2>EDUCATION</h2>
 
 - Student at Tishreen University, Faculty of Informatics Engineering.
 <h2>SKILLS</h2>
+<<<<<<< HEAD
 <h3>Programming Languages</h3>
 <p align="left">
     <!-- C++ -->
@@ -149,12 +168,19 @@
         <img alt="git"src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"height="40"width="40">
     </a>
 </p>
+=======
+<h3>Programming Languages</h3><p align="left"><a href="https://www.w3schools.com/cpp/"rel="noreferrer"target="_blank"><img alt="cplusplus"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"height="40"width="40"> </a><a href="https://www.java.com"rel="noreferrer"target="_blank"><img alt="java"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"height="40"width="40"> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"rel="noreferrer"target="_blank"><img alt="javascript"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"height="40"width="40"> </a><a href="https://www.php.net"rel="noreferrer"target="_blank"><img alt="php"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"height="40"width="40"></a></p><h3>Frontend Development</h3><p align="left"><a href="https://www.w3.org/html/"rel="noreferrer"target="_blank"><img alt="html5"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"height="40"width="40"> </a><a href="https://www.w3schools.com/css/"rel="noreferrer"target="_blank"><img alt="css3"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"height="40"width="40"> </a><a href="https://sass-lang.com"rel="noreferrer"target="_blank"><img alt="sass"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"height="40"width="40"> </a><a href="https://getbootstrap.com"rel="noreferrer"target="_blank"><img alt="bootstrap"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"height="40"width="40"> </a><a href="https://pugjs.org"rel="noreferrer"target="_blank"><img alt="pug"src="https://cdn.worldvectorlogo.com/logos/pug.svg"height="40"width="40"> </a><a href="https://gulpjs.com"rel="noreferrer"target="_blank"><img alt="gulp"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"height="40"width="40"> </a><a href="https://reactjs.org/"rel="noreferrer"target="_blank"><img alt="react"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"height="40"width="40"></a></p><h3 align="left">Backend Development</h3><h3 align="left">Database</h3><p align="left"><a href="https://www.mysql.com/"rel="noreferrer"target="_blank"><img alt="mysql"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"height="40"width="40"></a></p><h3 align="left">Framework</h3><p align="left"><a href="https://laravel.com/"rel="noreferrer"target="_blank"><img alt="laravel"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"height="40"width="40"></a></p><h3 align="left">Testing</h3><a href="https://jestjs.io"rel="noreferrer"target="_blank"><img alt="jest"src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"height="40"width="40"></a><h3 align="left">Other</h3><p align="left"><a href="https://git-scm.com/"rel="noreferrer"target="_blank"><img alt="git"src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"height="40"width="40"></a></p>
+>>>>>>> 2a07f45e8e137e71a2750ca5f8cc0e1eb1a780cc
 
 <h2>LANGUAGES</h2>
 
 - Arabic (native language proficiency)
 - English (Professional level proficiency)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2a07f45e8e137e71a2750ca5f8cc0e1eb1a780cc
 <h2>INTERESTS</h2>
 
 - Programming
