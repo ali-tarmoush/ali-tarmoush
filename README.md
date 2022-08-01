@@ -51,19 +51,23 @@
     <a href="https://codeforces.com/profile/ali_tarmoush"target="_blank">
     <img align="center"alt="ali_tarmoush"height="30"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"width="40">
     </a>
+    <br>
     <!-- codechef -->
 - Practising on 
     <a href="https://www.codechef.com/users/ali_tarmoush" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ali_tarmoush" height="30" width="40" />
     </a>
+    <br>
     <!-- hackerrank -->
 - Practising on 
     <a href="https://www.hackerrank.com/ali_tarmoush"target="_blank">
     <img align="center"alt="ali_tarmoush"height="30"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"width="40">
     </a>
+    <br>
     <!-- leetcode -->
 - Practising on 
     <a href="https://www.leetcode.com/ali-tarmoush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ali-tarmoush" height="30" width="40" /></a>
+    <br>
 </p>
 
 <h2>EDUCATION</h2>
