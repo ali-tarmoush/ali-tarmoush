@@ -116,6 +116,7 @@
         </a>
     </p>
     <!-- codechef -->
+    <p style="font-size: .7rem;">
 - Practising on 
     <a href="https://www.codechef.com/users/ali_tarmoush" target="blank">
         <img 
@@ -126,8 +127,9 @@
             width="40" 
         />
     </a>
-    <br>
+    </p>
     <!-- hackerrank -->
+    <p style="font-size: .7rem;">
 - Practising on 
     <a href="https://www.hackerrank.com/ali_tarmoush"target="_blank">
         <img 
@@ -138,9 +140,10 @@
             width="40"
         >
     </a>
-    <br>
+    </p>
     <!-- leetcode -->
-- Practising on 
+    <p style="font-size: .7rem;">
+- Practising on     
     <a href="https://www.leetcode.com/ali-tarmoush" target="blank">
         <img 
             align="center" 
@@ -150,6 +153,7 @@
             width="40" 
         />
     </a>
+    </p>
 </p>
 
 <h2>EDUCATION</h2>
