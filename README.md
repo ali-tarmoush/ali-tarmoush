@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ali-tarmoush@outlook.com**
 
-<section align="center">
+<section>
     <h2>Bio</h2>
     <p align="left">
         I'm a Junior Full-Stack Web Developer living in Tartus, Syria. Holds a high school diploma, the scientific branch with a percentage of [90.52%]. I am studying at Tishreen University, Faculty of Informatics Engineering. Since the beginning of my journey with Front-End Development I have become addicted to developing responsive websites. I spend more than 6 hours in front of a computer screen every day. I am passionate about technology, development and engineering. I work and believe in actions that can generate a positive impact on people's lives and the environment.
