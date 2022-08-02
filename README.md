@@ -103,17 +103,18 @@
     </a>
 <p align="left">
     <!-- codeforces -->
-- Practising on
-    <a href="https://codeforces.com/profile/ali_tarmoush"target="_blank">
-        <img 
-            align="center"
-            src="assets/svg/codeforces.svg"
-            alt="Ali Tarmoush on Codeforces"
-            height="30"
-            width="40"
-        >
-    </a>
-    <br>
+    <pre style="font-size: .7rem;">
+    - Practising on
+        <a href="https://codeforces.com/profile/ali_tarmoush"target="_blank">
+            <img 
+                align="center"
+                src="assets/svg/codeforces.svg"
+                alt="Ali Tarmoush on Codeforces"
+                height="30"
+                width="40"
+            >
+        </a>
+    </pre>
     <!-- codechef -->
 - Practising on 
     <a href="https://www.codechef.com/users/ali_tarmoush" target="blank">
