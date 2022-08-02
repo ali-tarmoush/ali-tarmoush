@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Ali Tarmoush</h1>
 <h2 align="center">A Junior Full-Stack Web Developer from Syria</h2>
 <p align="center">
-    <img alt="ali-tarmoush"src="ali-tarmoush.png">
+    <img alt="ali-tarmoush"src="assets/img/ali-tarmoush.png">
 </p>
 <p align="center">
     <a href="https://twitter.com/ali_tarmoush" target="blank"><img src="https://img.shields.io/twitter/follow/ali_tarmoush?logo=twitter&style=for-the-badge" alt="ali_tarmoush" /></a>
@@ -17,56 +17,56 @@
 <p align="left">
     <!-- linkedin -->
     <a href="https://linkedin.com/in/ali-tarmoush-4524151a2" target="_blank">
-        <img align="center"alt="ali-tarmoush-4524151a2"height="30"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"width="40"> 
+        <img align="center"alt="ali-tarmoush-4524151a2"height="30"src="./assets/svg/linked-in.svg"width="40"> 
     </a>
     <!-- fb -->
     <a href="https://fb.com/ali.tarmwsh.9"target="_blank">
-        <img align="center"alt="ali.tarmwsh.9"height="30"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"width="40"> 
+        <img align="center"alt="ali.tarmwsh.9"height="30"src="./assets/svg/facebook.svg"width="40"> 
     </a>
     <!-- youtube -->
     <a href="https://www.youtube.com/channel/UC_32dqqA3078JjERjKDdImg"target="_blank">
-        <img align="center"alt="uc_32dqqa3078jjerjkddimg"height="30"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"width="40"> 
+        <img align="center"alt="uc_32dqqa3078jjerjkddimg"height="30"src="./assets/svg/youtube.svg"width="40"> 
     </a>
     <!-- medium -->
-    <a href="https://medium.com/@ali-tarmoush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ali-tarmoush" height="30" width="40" /></a>
+    <a href="https://medium.com/@ali-tarmoush" target="blank"><img align="center" src="./assets/svg/medium.svg" alt="@ali-tarmoush" height="30" width="40" /></a>
     <!-- dev.to -->
     <a href="https://dev.to/ali_tarmoush"target="_blank">
-        <img align="center"alt="ali_tarmoush"height="30"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"width="40"> 
+        <img align="center"alt="ali_tarmoush"height="30"src="./assets/svg/devto.svg"width="40"> 
     </a>
     <!-- twitter -->
     <a href="https://twitter.com/ali_tarmoush"target="_blank">
-        <img align="center"alt="ali_tarmoush"height="30"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"width="40"> 
+        <img align="center"alt="ali_tarmoush"height="30"src="./assets/svg/twitter.svg"width="40"> 
     </a>
     <!-- instagram -->
     <a href="https://instagram.com/ali_a_tarmoush"target="_blank">
-        <img align="center"alt="ali_a_tarmoush"height="30"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"width="40">
+        <img align="center"alt="ali_a_tarmoush"height="30"src="./assets/svg/instagram.svg"width="40">
     </a>
     <!-- stackoverflow -->
     <a href="https://stackoverflow.com/users/15423157"target="_blank">
-        <img align="center"alt="15423157"height="30"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"width="40">
+        <img align="center"alt="15423157"height="30"src="./assets/svg/stack-overflow.svg"width="40">
     </a>
 <p align="left">
     <!-- codeforces -->
 - Practising on
     <a href="https://codeforces.com/profile/ali_tarmoush"target="_blank">
-    <img align="center"alt="ali_tarmoush"height="30"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"width="40">
+        <img align="center"alt="ali_tarmoush"height="30"src="./assets/svg/codeforces.svg"width="40">
     </a>
     <br>
     <!-- codechef -->
 - Practising on 
     <a href="https://www.codechef.com/users/ali_tarmoush" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ali_tarmoush" height="30" width="40" />
+        <img align="center" src="./assets/svg/codechef.svg" alt="ali_tarmoush" height="30" width="40" />
     </a>
     <br>
     <!-- hackerrank -->
 - Practising on 
     <a href="https://www.hackerrank.com/ali_tarmoush"target="_blank">
-    <img align="center"alt="ali_tarmoush"height="30"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"width="40">
+        <img align="center"alt="ali_tarmoush"height="30"src="./assets/svg/hackerrank.svg"width="40">
     </a>
     <br>
     <!-- leetcode -->
 - Practising on 
-    <a href="https://www.leetcode.com/ali-tarmoush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ali-tarmoush" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/ali-tarmoush" target="blank"><img align="center" src="./assets/svg/leet-code.svg" alt="ali-tarmoush" height="30" width="40" /></a>
     <br>
 </p>
 
