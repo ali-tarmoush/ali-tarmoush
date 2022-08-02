@@ -103,7 +103,7 @@
     </a>
 <p align="left">
     <!-- codeforces -->
-    <pre style="font-size: .7rem;">
+    <p style="font-size: .7rem;">
     - Practising on
         <a href="https://codeforces.com/profile/ali_tarmoush"target="_blank">
             <img 
@@ -114,7 +114,7 @@
                 width="40"
             >
         </a>
-    </pre>
+    </p>
     <!-- codechef -->
 - Practising on 
     <a href="https://www.codechef.com/users/ali_tarmoush" target="blank">
